@@ -1,21 +1,16 @@
-# Talk-to-MySQL-Few-Shot-SQL-Query-Generation-with-Google-PaLM-and-LangChain
+# 💬 Talk-to-MySQL: Few-Shot SQL Query Generation with Google PaLM 🧠 and LangChain 🔗🚀
 
 
-# Asalam alaikum warahmatullah wabarakatu!
+## Asalam alaikum warahmatullah wabarakatu! 🌟
 
-I'm Mustafa Shoukat, a Generative AI Expert. I'm in the world of LLMs and exploring various concepts and techniques to enhance my skills. In this repository, I'll unlock the potential of Google PaLM for code generation with precision and efficiency.
+👋 I'm Mustafa Shoukat, a Generative AI Expert. I'm deeply immersed in the world of LLMs and continuously exploring various concepts and techniques to enhance my skills. In this repository, I'll unlock the potential of Google PaLM for code generation with precision and efficiency. 🚀
 
-## Contact Information
+## 📬 Contact Information
 
-| Name           | Email                          | LinkedIn                                                        | GitHub                                              | Kaggle                                               | LeetCode                                                 |
-|----------------|--------------------------------|-----------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------|
-| Mustafa Shoukat | mustafashoukat.ai@gmail.com    | [LinkedIn Badge](https://www.linkedin.com/in/mustafashoukat/)   | [GitHub Badge](https://github.com/Mustafa-Shoukat1) | [Kaggle Badge](https://www.kaggle.com/mustafashoukat) | [LeetCode Badge](https://leetcode.com/u/MustafaShoukat/) |
+| Name            | Email                           | LinkedIn                                                        | GitHub                                              | Kaggle                                               | LeetCode                                                 |
+|-----------------|---------------------------------|-----------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------|
+| Mustafa Shoukat | mustafashoukat.ai@gmail.com     | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mustafashoukat/)   | [![GitHub Badge](https://img.shields.io/badge/-GitHub-black)](https://github.com/Mustafa-Shoukat1) | [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/mustafashoukat) | [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange)](https://leetcode.com/u/MustafaShoukat/) |
 
-
-
-Sure! Here's a beautifully crafted README file for your GitHub project:
-
----
 
 # 🛒 AtliQ Tees: Talk to a Database
 
