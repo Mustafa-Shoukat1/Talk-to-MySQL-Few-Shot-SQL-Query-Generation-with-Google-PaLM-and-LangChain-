@@ -13,7 +13,7 @@
 |-----------------|---------------------------------|-----------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------|
 | Mustafa Shoukat | mustafashoukat.ai@gmail.com     | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mustafashoukat/)   | [![GitHub Badge](https://img.shields.io/badge/-GitHub-black)](https://github.com/Mustafa-Shoukat1) | [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/mustafashoukat) | [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange)](https://leetcode.com/u/MustafaShoukat/) |
 
-[Google PaLM](https://th.bing.com/th/id/OIP.HMwi10r0TW11pUc-9yZEeQHaE8?rs=1&pid=ImgDetMain)
+![image](https://github.com/user-attachments/assets/36cd834c-8f6e-4609-8d3a-cad65fb7c2e3)
 
 # 🛒 AtliQ Tees: Talk to a Database
 
