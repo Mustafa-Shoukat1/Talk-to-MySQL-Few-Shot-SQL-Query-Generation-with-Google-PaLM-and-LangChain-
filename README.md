@@ -115,12 +115,3 @@ AtliQ_Tees/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-
-- [AtliQ Tees Banner](https://via.placeholder.com/1200x400.png?text=AtliQ+Tees+Project+Banner)
-- [Project Workflow](https://via.placeholder.com/800x400.png?text=Project+Workflow)
-- [Streamlit App Screenshot](https://via.placeholder.com/800x400.png?text=Streamlit+App+Screenshot)
-
-
-
-
