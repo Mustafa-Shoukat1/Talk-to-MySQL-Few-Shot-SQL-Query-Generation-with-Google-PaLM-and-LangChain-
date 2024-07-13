@@ -1,5 +1,7 @@
 # 💬 Talk-to-MySQL: Few-Shot SQL Query Generation with Google PaLM 🧠 and LangChain 🔗🚀
 
+![image](https://github.com/user-attachments/assets/94a21c71-e5c9-4c59-b9b5-8cb085f087f3)
+
 
 ## Asalam alaikum warahmatullah wabarakatu! 🌟
 
@@ -11,6 +13,7 @@
 |-----------------|---------------------------------|-----------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------|
 | Mustafa Shoukat | mustafashoukat.ai@gmail.com     | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mustafashoukat/)   | [![GitHub Badge](https://img.shields.io/badge/-GitHub-black)](https://github.com/Mustafa-Shoukat1) | [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/mustafashoukat) | [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange)](https://leetcode.com/u/MustafaShoukat/) |
 
+[Google Palm](https://th.bing.com/th/id/OIP.HMwi10r0TW11pUc-9yZEeQHaE8?rs=1&pid=ImgDetMain)
 
 # 🛒 AtliQ Tees: Talk to a Database
 
