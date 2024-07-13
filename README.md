@@ -1,0 +1,1 @@
+# Talk-to-MySQL-Few-Shot-SQL-Query-Generation-with-Google-PaLM-and-LangChain-
