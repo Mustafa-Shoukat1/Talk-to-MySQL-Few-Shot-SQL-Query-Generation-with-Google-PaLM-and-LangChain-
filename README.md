@@ -57,8 +57,6 @@ The system intelligently generates accurate SQL queries for the given questions 
 
 2. **Ask questions** in the web app that opens in your browser.
 
-![Streamlit App Screenshot](https://via.placeholder.com/800x400.png?text=Streamlit+App+Screenshot)
-
 ## ❓ Sample Questions
 
 - How many total T-shirts are left in stock?
