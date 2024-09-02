@@ -100,7 +100,7 @@ AtliQ_Tees/
 
 3. **Create a `.env` file** and add your Google API key:
     ```env
-    GOOGLE_API_KEY="AIzaSyCWtLDiKOfa_5_GNV-4cNTjD0Z6To1gt40" 
+    GOOGLE_API_KEY="" 
     ```
 
 4. **Run the Streamlit app:**
