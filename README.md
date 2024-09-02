@@ -62,7 +62,7 @@ The system intelligently generates accurate SQL queries for the given questions 
 - How many total T-shirts are left in stock?
 - How many T-shirts do we have left for Nike in XS size and white color?
 - How much is the total price of the inventory for all S-size T-shirts?
-- How much sales amount will be generated if we sell all small size Adidas shirts today after discounts?
+- How much will sales be generated if we sell all small-size Adidas shirts today after discounts?
 
 ## 📁 Project Structure
 
@@ -107,9 +107,3 @@ AtliQ_Tees/
     ```bash
     streamlit run main.py
     ```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
